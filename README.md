@@ -1,2 +1,2 @@
 # NodeJS-PrimeXBT
-Unofficial library to for PrimeXBT written in NodeJS
+Unofficial library for PrimeXBT written in NodeJS
